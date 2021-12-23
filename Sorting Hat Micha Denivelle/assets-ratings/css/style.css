@@ -1,0 +1,108 @@
+body
+{
+    background-image: url("../images/background.jpg");
+    zoom : 90%;
+}
+
+.pagesize
+{
+    margin-left:auto;
+    margin-right:auto;
+    width:1900px;   
+}
+
+h1
+{
+    text-decoration: underline;
+    font-family: "Festive";
+    font-size:  50px;
+    text-align: center;
+    color: rgb(170, 167, 2);
+}
+
+.next_person
+{
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    background-color: gold;
+}
+
+.labels
+{
+    color: rgb(75, 49, 0);
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: 49%;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.text_firstname
+{
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: 42%;
+    bottom: 408px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.text_name
+{
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: 45%;
+    bottom: 378px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.text_slytherin
+{
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: 43%;
+    bottom: 350px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.text_gryffindor
+{
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: 42%;
+    bottom: 320px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.text_ravenclaw
+{
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: 42%;
+    bottom: 290px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.text_hufflepuff
+{
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: 42%;
+    bottom: 261px;
+    font-weight: bold;
+    font-size: 25px;
+}

@@ -1,0 +1,136 @@
+body
+{
+    background-image: url("../images/background.jpg");
+    zoom : 90%;
+}
+
+.pagesize
+{
+    margin-left:auto;
+    margin-right:auto;
+    width:1900px;   
+}
+
+h1
+{
+    text-decoration: underline;
+    font-family: "Festive";
+    font-size:  50px;
+    text-align: center;
+    color: rgb(170, 167, 2);
+}
+
+.slytherin_button
+{
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    background-color: gold;
+}
+
+.gryffindor_button
+{
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    background-color: gold;
+}
+
+.hufflepuff_button
+{
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    background-color: gold;
+}
+
+.ravenclaw_button
+{
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    background-color: gold;
+}
+
+.nextperson_button
+{
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    background-color: rgb(46, 255, 158);
+    visibility: hidden;
+}
+
+.labels
+{
+    color: rgb(75, 49, 0);
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: 49%;
+    font-weight: bold;
+    font-size: 25px;
+    bottom: 50px;
+}
+
+.text_firstname
+{
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: 42%;
+    bottom: 547px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.text_name
+{
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: 42%;
+    bottom: 520px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.text_gender
+{
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: 42%;
+    bottom: 490px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.text_info
+{
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: 42%;
+    bottom: 460px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.image_person
+{
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
